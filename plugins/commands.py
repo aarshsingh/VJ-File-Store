@@ -56,7 +56,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('💝 JOIN OUR BACKUP CHANNEL', url='https://t.me/Allvidsbackup')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Xsupportchats),
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Xsupportchats'),
             InlineKeyboardButton('🤖 CONTACT OWNER', url='https://t.me/XSUPPRTBOT')
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
