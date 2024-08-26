@@ -410,7 +410,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('💝 Join our backup channel', url='https://t.me/Allvidsbackup')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Xsupportchats),
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/Xsupportchats'),
             InlineKeyboardButton('🤖 CONTACT OWNER, url='https://t.me/Xsupprtbot)
             ],[
             InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')
